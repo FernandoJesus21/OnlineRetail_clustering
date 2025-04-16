@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+rsconnect/
+data/raw/
+old/
+.ipynb_checkpoints/
+.git
